@@ -1,7 +1,7 @@
 <h2> COVID-19 modeller and tracker </h2><br>
                                     
 
-This github page contains the codes for a synergetic R-Shiny portal for modeling and tracking of COVID-19 demographic information.
+This github page contains the codes for a synergetic R-Shiny portal for modeling and tracking of COVID-19 demographic information available at https://mahdisalehi.shinyapps.io/Covid19Dashboard. 
 The data used are obtained from the online repository GitHub (https://pomber.github.io/covid19/timeseries.json) 
 which transforms the data from Johns Hopkins University Center for Systems Science and Engineering (CSSEGISandData/COVID-19) into a json file.
 This Shiny app, first released on 6 April 2020, to serve as a platform for visualization 
