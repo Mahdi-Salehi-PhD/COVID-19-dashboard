@@ -5,7 +5,7 @@ The data used are obtained from the online repository GitHub (https://pomber.git
 which transforms the data from Johns Hopkins University Center for Systems Science and Engineering (CSSEGISandData/COVID-19) into a json file.
 This Shiny app, first released on 6 April 2020, to serve as a platform for visualization 
 and analysis of the data. Analysis here includes logistic and Gompertz growth models, as two mathematical tools for predicting the future of the COVID-19 pandemic, 
-as well as the  Moran's index metric, which gives a spatial correlation of the contries of a given continent.<hr>
+as well as the  Moran's index metric, which gives a spatial correlation of the countries of a given continent.<hr>
 <h4>Team members </h4><br>
 <div style = 'font-size: 12.5px;color:black;font-weight:bold'>  <a style = 'font-size: 14px;color:blue;font-weight:bold'; href = http://salehi.neyshabur.ac.ir/math/salehi/ > Mahdi Salehi </a>: Department of Mathematics and Statistics, Faculty of Basic Sciences - University of Neyshabur, Iran  <a style = 'font-size: 12.5px;color:blue;font-weight:bold'; href = 'mailto: salehi2sms@gmail.com'> (principal developer) </a></div>
              <div style = 'font-size: 12.5px;color:black;font-weight:bold'>  <a style = 'font-size: 16px;color:blue;font-weight:bold'> Foad Esmaeili</a>: Department of Mathematics and Statistics, Faculty of Basic Sciences - University of Neyshabur, Iran </div>
